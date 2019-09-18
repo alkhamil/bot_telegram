@@ -5,8 +5,8 @@ def telegram_bot_sendtext(bot_message):
     
     bot_token = 'APIKEY'
     bot_chatID = [
-        {"users" : "nazmudin", "id_bot" : "329264245"},
-        {"users" : "raka", "id_bot" : "602980254"}
+        {"users" : "nazmudin", "id_bot" : "id"},
+        {"users" : "raka", "id_bot" : "id"}
     ]
     
     for bot_id in bot_chatID:
